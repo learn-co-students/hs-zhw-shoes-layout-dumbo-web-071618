@@ -24,4 +24,32 @@
 
 /* Posititoning Classes */
 
+.col-1 {
+  width: 32%;
+}
 
+.col-2  {
+  width: 66%;
+}
+
+.col-3  {
+  width: 99.9%;
+}
+
+[class*="col-"] {
+  float: left;
+  margin-left: 2%;
+}
+
+.first  {
+  margin-left: 0%;
+  clear: left;
+}
+
+.row  {
+  clear: both;
+}
+
+#dates{
+  height: 652.633px;
+}
