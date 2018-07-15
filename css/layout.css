@@ -24,4 +24,83 @@
 
 /* Posititoning Classes */
 
+.deals {
+  clear:both;
+  width: 100%;
+  margin-bottom:4%;
+  margin-top:2%;
+}
+
+.fig-1 {
+  position: relative;
+  left:0;
+  box-sizing: border-box;
+  display: inline-block;
+  width: 32%; 
+  float:left;
+  margin-right: 2%
+}
+
+.fig-2 {
+  position:relative;
+  box-sizing: border-box;
+  display: inline-block;
+  width: 32%; 
+  margin: 0 auto;
+}
+
+.fig-3 {
+  box-sizing: border-box;
+  display: inline-block;
+  width: 32%;
+  float:right;
+}
+
+.footer {
+  box-sizing: border-box;
+}
+
+.left-col {
+  display: inline-block;
+  width: 32%; 
+}
+
+.main {
+  display: inline-block;
+  width:66%;
+  margin-right:2%;
+  height:auto;
+  padding-bottom: 3.5%;
+}
+
+.mid-col {
+  display: inline-block;
+  width: 32%;
+  margin-left: 1.5%;
+}
+
+.right-col {
+  float:right;
+  display: inline-block;
+  width: 32%; 
+}
+
+.sale {
+  margin-bottom: 5pt;
+}
+
+.second {
+  overflow: hidden;
+  dispay: block;
+  margin-bottom: 2%;
+  width: 100%;
+}
+
+.side-bar {
+  position:relative;
+  right:0;
+  display: inline-block;
+  width:32%;
+  float:right;
+}
 
